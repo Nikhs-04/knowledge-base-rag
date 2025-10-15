@@ -168,6 +168,12 @@ Upload sample documents and try these queries:
 - Build command: `npm run build`
 - Publish directory: `dist`
 
+## Demo Video
+
+Watch the demo of the Knowledge-base Search Engine here:  
+[Demo Video](https://drive.google.com/file/d/1jOWWjIapSiqsV94nPUQYfdCCkJ3k0Jsu/view?usp=sharing)
+
+
 ## 📝 Future Enhancements
 
 - [ ] Multi-user support with authentication
@@ -180,10 +186,10 @@ Upload sample documents and try these queries:
 
 ## 👨‍� Author
 
-**[Your Name]**
-- GitHub: [@yourusername]
-- LinkedIn: [Your LinkedIn]
-- Email: your.email@example.com
+**Nikhita Moncy**
+- GitHub: Nikhs-04
+- LinkedIn: (https://www.linkedin.com/in/nikhita-moncy-bb904a210/)
+- Email: nikhitamoncy2004@gmail.com
 
 ## 📄 License
 
