@@ -10,7 +10,7 @@ export default function KnowledgeBaseApp() {
   const [stats, setStats] = useState(null);
   const [uploadStatus, setUploadStatus] = useState('');
 
-  const API_URL = 'http://localhost:8000';
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000'; 
 
   useEffect(() => {
     fetchStats();

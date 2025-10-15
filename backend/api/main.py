@@ -43,11 +43,10 @@ vector_store = VectorStore(
     persist_directory="./data/embeddings",
     collection_name="documents"
 )
-rag_engine = RAGEngine(
-    vector_store=vector_store,
-    model="llama3.2",
-    temperature=0.3
-)
+
+rag_engine = RAGEngine(vector_store)
+rag_engine.model = "gpt-3.5-turbo"
+rag_engine.temperature = 0.3
 
 # Data directory
 UPLOAD_DIR = Path("./data/documents")
@@ -242,9 +241,6 @@ async def health_check():
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(
-        "main:app",
-        host="127.0.0.1",
-        port=8000,
-        reload=False
-    )
+    import os
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run("main:app", host="0.0.0.0", port=port, reload=False)
