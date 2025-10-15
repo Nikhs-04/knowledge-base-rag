@@ -180,10 +180,10 @@ Upload sample documents and try these queries:
 
 ## 👨‍� Author
 
-**[Your Name]**
-- GitHub: [@yourusername]
-- LinkedIn: [Your LinkedIn]
-- Email: your.email@example.com
+**Nikhita Moncy**
+- GitHub: Nikhs-04
+- LinkedIn: (https://www.linkedin.com/in/nikhita-moncy-bb904a210/)
+- Email: nikhitamoncy2004@gmail.com
 
 ## 📄 License
 
