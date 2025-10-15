@@ -1,0 +1,25 @@
+﻿Artificial Intelligence and Machine Learning
+
+Artificial Intelligence (AI) is the simulation of human intelligence by machines. It includes various subfields such as machine learning, natural language processing, and computer vision.
+
+Machine Learning is a subset of AI that enables systems to learn from data without being explicitly programmed. There are three main types:
+
+1. Supervised Learning - Learning from labeled data with known outcomes
+2. Unsupervised Learning - Finding patterns in unlabeled data
+3. Reinforcement Learning - Learning through trial and error with rewards
+
+Popular machine learning algorithms include:
+- Neural Networks - Inspired by biological brains
+- Decision Trees - Tree-like models for classification
+- Random Forests - Collections of decision trees
+- Support Vector Machines - For classification and regression
+
+Applications of AI and ML include:
+- Image and speech recognition
+- Natural language processing
+- Autonomous vehicles
+- Medical diagnosis
+- Recommendation systems
+- Fraud detection
+
+Python is the most popular programming language for AI and ML, with libraries like TensorFlow, PyTorch, and scikit-learn.

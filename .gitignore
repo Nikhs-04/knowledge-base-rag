@@ -1,0 +1,42 @@
+```
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# Data
+data/embeddings/*
+data/documents/*
+!data/documents/.gitkeep
+!data/embeddings/.gitkeep
+
+# Node
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
