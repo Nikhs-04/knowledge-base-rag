@@ -191,9 +191,6 @@ Watch the demo of the Knowledge-base Search Engine here:
 - LinkedIn: (https://www.linkedin.com/in/nikhita-moncy-bb904a210/)
 - Email: nikhitamoncy2004@gmail.com
 
-## 📄 License
-
-MIT License
 
 ## 🙏 Acknowledgments
 
@@ -207,6 +204,5 @@ MIT License
 ⭐ **Star this repo if you find it helpful!**
 
 Built for [Unthinkable Solutions] Internship Application
-```
 
 ---
